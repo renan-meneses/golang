@@ -16,7 +16,7 @@ Siga os passos abaixo para executar a API em um ambiente Dockerizado:
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/minha-api-golang.git
+   git clone https://github.com/renan-meneses/golang.git
 Navegue até o diretório do projeto:
 
 bash
